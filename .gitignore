@@ -12,7 +12,7 @@
 *.log
 
 # Nuget packages
-# /packages
+/packages
 
 # Visual Studio output folders
 [Oo]bj/
@@ -21,3 +21,5 @@
 # Code analysis files
 *.CodeAnalysisLog.xml
 *.lastcodeanalysissucceeded
+
+.vs
